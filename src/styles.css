@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+html, body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 14pt;
+}
+
+hr {
+    margin-bottom: 20px;
+    border: 0;
+    height: 3px;
+    background: white;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}

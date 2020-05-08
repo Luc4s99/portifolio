@@ -1,0 +1,25 @@
+div.container-fluid {
+    background-color: #22262a;
+    color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div.container {
+    border: solid;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: #2e3338;
+    text-align: justify;
+}
+
+div {
+    padding: 10px;
+}
+
+h5 {
+    text-align: center;
+    padding: 10px;
+}

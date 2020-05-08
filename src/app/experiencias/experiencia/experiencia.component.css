@@ -1,0 +1,21 @@
+span {
+    margin-left: 20%;
+    padding: 10px;
+    text-align: justify;
+}
+
+div.container {
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+}
+
+div {
+    text-align: justify;
+    padding: 10px;
+    background-color: #2e3338;
+}
+
+h5 {
+    padding: 10px;
+}
